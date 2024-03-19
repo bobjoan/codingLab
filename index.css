@@ -1,0 +1,135 @@
+:root {
+  --default-font: Mulish;
+  --default-color: #7d7987;
+}
+header h4 {
+  display: inline-block;
+  vertical-align: middle;
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: right;
+}
+li a {
+  display: block;
+  color: #233348;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.heading h1 p {
+  width: 445px;
+  height: 338px;
+  top: 238px;
+  left: 190px;
+  border-radius: 55px;
+}
+.heading h1 {
+  font-family: var(--default-font);
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.heading p {
+  color: var(--default-color);
+  font-size: 21px;
+  line-height: 32px;
+  font-weight: 300;
+}
+.heading button {
+  width: 200px;
+  height: 56px;
+  top: 564px;
+  left: 190px;
+  border-radius: 55px;
+  background: #458ff6;
+}
+.heading img {
+  width: 500px;
+}
+.services {
+  text-align: center;
+  letter-spacing: 0em;
+}
+.services h2 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 56px;
+  margin-top: 30px;
+}
+.services p {
+  font-family: var(--default-font);
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  color: var(--default-color);
+}
+.services button {
+  border-radius: 55px;
+  margin-top: 20px;
+}
+.search {
+  border: 1px solid #7d7987;
+  border-radius: 10px;
+}
+.services-container {
+  background-image: url(/src/bg\ element.png);
+  background-size: auto;
+  background-position: left;
+}
+.services-container img {
+  width: 91.98px;
+  height: 90px;
+  top: 1278px;
+  left: 277px;
+}
+.services-container h4 {
+  font-family: var(--default-font);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.services-container p {
+  font-family: var(--default-font);
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: var(--default-color);
+}
+.providers .image {
+  width: 500px;
+  height: 477px;
+  top: 2318px;
+  left: 135px;
+}
+.providers p {
+  font-family: var(--default-font);
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.providers button {
+  border: 1.4px solid #458ff6;
+  border-radius: 55px;
+}
+.providers h2 {
+  font-family: var(--default-font);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0em;
+  text-align: left;
+}
