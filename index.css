@@ -2,6 +2,9 @@
   --default-font: Mulish;
   --default-color: #7d7987;
 }
+header {
+  padding: 20px;
+}
 header h4 {
   display: inline-block;
   vertical-align: middle;
