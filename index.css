@@ -90,6 +90,12 @@ li a {
   background-size: auto;
   background-position: left;
 }
+.search {
+  padding: 10px;
+  transition: transform 0.3s;
+  margin: 5px;
+  border-radius: 10px;
+}
 .services-container img {
   width: 91.98px;
   height: 90px;
